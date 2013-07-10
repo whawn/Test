@@ -4,6 +4,6 @@ public class test
 	{
 		System.out.println("Hellow Word!!");
 		System.out.prinyln("Love & Peace");
-		System.out.println("master");
+		System.out.println("merge");
 	}
 }
